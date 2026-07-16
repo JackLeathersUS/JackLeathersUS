@@ -2,6 +2,9 @@
   <img src="./images/jack-leathers-logo.png" alt="Jack Leathers Logo" width="220">
 </p>
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JackLeathersUS&label=Profile%20Views&color=red&style=for-the-badge" />
+</p>
+<p align="center">
 
 <img src="https://img.shields.io/badge/Leather-Premium-black?style=for-the-badge&logo=buffer&logoColor=white">
 
