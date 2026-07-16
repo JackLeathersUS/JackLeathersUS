@@ -1,3 +1,18 @@
+<p align="center">
+  <img src="./images/jack-leathers-logo.png" alt="Jack Leathers Logo" width="220">
+</p>
+
+<h1 align="center">Jack Leathers</h1>
+
+<p align="center">
+Premium Leather Jackets • Handmade Bullwhips • Western Gear
+</p>
+
+<p align="center">
+<a href="https://jackleathers.us/">🌐 Official Website</a>
+</p>
+
+---
 # Jack Leathers
 
 ## Premium Leather Jackets & Handmade Bullwhips
