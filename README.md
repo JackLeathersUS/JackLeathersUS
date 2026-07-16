@@ -1,12 +1,13 @@
+# Jack Leathers
+
 ## Premium Leather Jackets & Handmade Bullwhips
 
-Welcome to the official GitHub profile of **Jack Leathers**.
-
-We specialize in premium genuine leather products crafted for quality, durability, and timeless style. Our collections include handcrafted leather jackets and professionally made bullwhips designed for enthusiasts, collectors, western lifestyle lovers, and everyday wear.
+Premium handcrafted leather jackets, genuine bullwhips, and western gear made with premium materials and expert craftsmanship.
 
 🌐 **Official Website**
 
 https://jackleathers.us/
+
 ---
 
 # Table of Contents
