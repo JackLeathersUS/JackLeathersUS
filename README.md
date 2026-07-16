@@ -1,5 +1,3 @@
-# Jack Leathers
-
 ## Premium Leather Jackets & Handmade Bullwhips
 
 Welcome to the official GitHub profile of **Jack Leathers**.
@@ -9,7 +7,24 @@ We specialize in premium genuine leather products crafted for quality, durabilit
 🌐 **Official Website**
 
 https://jackleathers.us/
+---
 
+# Table of Contents
+
+- About Jack Leathers
+- Featured Collections
+- Handmade Bullwhips
+- Leather Jackets
+- Why Choose Jack Leathers
+- Product Categories
+- Buying Guides
+- Explore Our Website
+- Future Collections
+- Connect With Jack Leathers
+- Frequently Asked Questions
+- License
+
+---
 ---
 
 # About Jack Leathers
