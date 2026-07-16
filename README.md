@@ -1,6 +1,17 @@
 <p align="center">
   <img src="./images/jack-leathers-logo.png" alt="Jack Leathers Logo" width="220">
 </p>
+<p align="center">
+
+<img src="https://img.shields.io/badge/Leather-Premium-black?style=for-the-badge&logo=buffer&logoColor=white">
+
+<img src="https://img.shields.io/badge/Bullwhips-Handmade-red?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Worldwide-Shipping-blue?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Secure-Shopping-green?style=for-the-badge">
+
+</p>
 
 <h1 align="center">Jack Leathers</h1>
 
