@@ -27,13 +27,19 @@ https://jackleathers.us/
 ---
 ---
 
-# About Jack Leathers
+## About Jack Leathers
 
-Jack Leathers is committed to providing premium leather products made with attention to craftsmanship and detail.
+Jack Leathers is a premium online destination specializing in handcrafted leather jackets and traditional bullwhips designed for customers who value quality, durability, and timeless craftsmanship. Our mission is to combine authentic leather artistry with modern manufacturing standards, creating products that deliver exceptional performance and long-lasting style.
 
-Our goal is to combine classic designs with modern quality standards, offering products that deliver style, durability, and long-lasting performance.
+Every product is carefully crafted using premium materials selected for their strength, comfort, and reliability. Whether you are searching for a classic leather jacket for everyday wear or a professionally handcrafted bullwhip inspired by western traditions, our collection is designed to meet the expectations of enthusiasts, collectors, riders, and outdoor professionals.
 
-Our growing collections include genuine leather jackets, western accessories, and handmade bullwhips made from carefully selected materials.
+Our growing leather apparel collection includes men's leather jackets, women's leather jackets, bomber jackets, biker jackets, motorcycle jackets, varsity jackets, aviator jackets, hooded jackets, and sheepskin jackets. Alongside our apparel, we proudly specialize in handcrafted bullwhips made from premium kangaroo hide, genuine cow hide, and durable nylon materials, offering options for beginners, professionals, and collectors alike.
+
+At Jack Leathers, we believe that exceptional products begin with exceptional craftsmanship. Every design reflects our commitment to premium quality, attention to detail, and customer satisfaction. We continuously expand our collection while maintaining the highest standards of construction, durability, and performance.
+
+This GitHub profile serves as a resource where visitors can explore our product collections, buying guides, leather care information, product documentation, and educational content related to premium leather goods and handcrafted bullwhips.
+
+Whether you are purchasing your first leather jacket or adding another handcrafted bullwhip to your collection, Jack Leathers is committed to providing products that combine traditional craftsmanship with modern quality standards.
 
 ---
 
